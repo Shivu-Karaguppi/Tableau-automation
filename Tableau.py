@@ -14,9 +14,9 @@ import excel_ops
 def tableau():
     config={
         'tableau_prod':{
-            'server':'https://analyticsreportsauth.boltinc.com/',
+            'server':'https://your server.com/',
             'api_version':'3.19',
-            'username':'shivanandk@boltinc.com',
+            'username':'Tylerdurden@boltinc.com', #use your username and  password
             'password':'Shivu@123',
             'personal_access_token':'Qa_test',
             'personal_access_token_secret':'EJrMRTEVTUeNQvfze3or5g==:B0siqlGpQ4udGnBpsQHfFKeEAqjrjDK5',
