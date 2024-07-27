@@ -15,7 +15,7 @@ for x in range(2):
     if dict_from_ast['name']==report_name_input
     
 
-    # print(data)
+    
 
 
 
